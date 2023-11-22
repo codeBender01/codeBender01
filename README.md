@@ -1,7 +1,7 @@
 <h1 align="center">Wassup 🥷, I'm Ahmet Saparov</h1>
 <h3 align="center">Best coder from Middle Asia</h3>
 
-<img align="center" alt="Jake the dog" width="100%" src="[[[https://images.squarespace-cdn.com/content/v1/5c123a745417fc558256de0b/1626455175689-7GYV6K7ECPHHXMRG82ZU/GIF+%28Reduced+Size%29.gif?format=2500w]](https://i.gifer.com/3AyY.gif)](https://i.gifer.com/3AyY.gif)" />
+<img align="center" alt="Jake the dog" width="100%" src="" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebender01" alt="codebender01" /></a> </p>
 
