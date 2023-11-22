@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **OnFruit mobile app**
 
-- 🌱 I’m currently learning **ReactJS, React Native, Vue**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **ReactJS, React Native and more React**
 
